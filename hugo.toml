@@ -1,0 +1,4 @@
+baseURL = 'https://makingprinciples.com/'
+languageCode = 'en-us'
+title = 'product craft and field notes'
+theme = 'ananke'
